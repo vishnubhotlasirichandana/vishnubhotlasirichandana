@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Siri Chandana
 
-<!--
-**vishnubhotlasirichandana/vishnubhotlasirichandana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Frontend Developer | Java | Spring Boot | Express.js | MongoDB | React**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🎓 BTech student at R.V.R. & J.C. College of Engineering — specializing in AI & ML.
+- 💻 Passionate about coding, software development and problem solving.
+- 🚀 Learning: React, Node.js, Spring Boot, and exploring GraphQL and Next.js.
+- 🌱 Currently building small full-stack projects to strengthen fundamentals.
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Backend:** Spring Boot, Express.js, Node.js  
+- **Frontend:** React, Tailwind CSS (or plain CSS)  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, VS Code, Postman, Docker (basics)
+
+---
+
+## 🚀 Featured Projects
+- **pizza-time-with-react** — A modular React app demonstrating component architecture and state/props usage.  
+  *Repo:* `pizza-time-with-react`  
+- **ai-study-planner-capstone** — Capstone project for Kaggle AI program.  
+  *Repo:* `ai-study-planner-capstone`  
+- **project_news_alan_ai_master** — Voice-controlled news React app (demo).
+
+---
+
+## ✉️ Contact
+- Location: Guntur, India  
+- Email: sirichandanavishnubhotla@gmail.com
